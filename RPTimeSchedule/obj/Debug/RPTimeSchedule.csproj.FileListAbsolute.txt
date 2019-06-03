@@ -1,0 +1,10 @@
+C:\Users\17044634\source\repos\RPTimeSchedule\RPTimeSchedule\bin\Debug\RPTimeSchedule.exe.config
+C:\Users\17044634\source\repos\RPTimeSchedule\RPTimeSchedule\bin\Debug\RPTimeSchedule.exe
+C:\Users\17044634\source\repos\RPTimeSchedule\RPTimeSchedule\bin\Debug\RPTimeSchedule.pdb
+C:\Users\17044634\source\repos\RPTimeSchedule\RPTimeSchedule\obj\Debug\RPTimeSchedule.Form1.resources
+C:\Users\17044634\source\repos\RPTimeSchedule\RPTimeSchedule\obj\Debug\RPTimeSchedule.Properties.Resources.resources
+C:\Users\17044634\source\repos\RPTimeSchedule\RPTimeSchedule\obj\Debug\RPTimeSchedule.csproj.GenerateResource.cache
+C:\Users\17044634\source\repos\RPTimeSchedule\RPTimeSchedule\obj\Debug\RPTimeSchedule.csproj.CoreCompileInputs.cache
+C:\Users\17044634\source\repos\RPTimeSchedule\RPTimeSchedule\obj\Debug\RPTimeSchedule.exe
+C:\Users\17044634\source\repos\RPTimeSchedule\RPTimeSchedule\obj\Debug\RPTimeSchedule.pdb
+C:\Users\17044634\source\repos\RPTimeSchedule\RPTimeSchedule\obj\Debug\RPTimeSchedule.csprojAssemblyReference.cache
